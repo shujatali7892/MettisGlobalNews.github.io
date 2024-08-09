@@ -98,7 +98,7 @@
     background-color: var(--beige-600, #dcd5c5);
   } 
   .mega-menu .dropdown-menu[data-bs-popper] {
-    right: -24% !important;
+    right: -9% !important;
     left: auto !important;
   }
 
